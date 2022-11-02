@@ -33,6 +33,8 @@
 
 // your code goes here
 
+
+
 /* TASK #2
     Create a variable named age and set it's value to your age in years. Once 
 	created, this variable will will have a data type of "number"
