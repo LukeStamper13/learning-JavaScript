@@ -32,7 +32,7 @@
 */
 
 // your code goes here
-
+let x;
 
 
 /* TASK #2
@@ -41,6 +41,7 @@
 */
 
 // your code goes here
+let age = 13;
 
 /* TASK #3
 	Create a variable named myName and set it's value to your name. Once 
@@ -48,6 +49,7 @@
 */
 
 // your code goes here
+let myName = "Luke"
 
 /* TASK #4
 	Create a variable named isCodingFun and set it's value to true Once created, 
@@ -55,6 +57,7 @@
 */
 
 // your code goes here
+let isCodingFun = true;
 
 /* TASK #5
 	Create a new variable called nameCopy and assign it to the myName variable 
@@ -63,6 +66,7 @@
 */
 
 // your code goes here
+let nameCopy = myName; 
 
 /* ****************************************************************************
    ***           DO NOT MODIFY ANYTHING AFTER THIS SECTION                  ***
