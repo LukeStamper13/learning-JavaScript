@@ -31,12 +31,25 @@ TASK #1
 
 // your code goes here
 
+const fruits = [
+	"strawberry",
+	"kiwi",
+	"raspberry",
+	"banana",
+	"blueberry",
+	"mango",
+	"watermelon",
+	"grapes"
+];
+
 /* 
 TASK #2
 	Create an empty array variable named mixedData.
 */
 
 // your code goes here
+
+const mixedData = [];
 
 /*
 TASK #3
@@ -54,6 +67,11 @@ TASK #3
 */
 
 // your code goes here
+
+const num = mixedData.push("14");
+mixedData.push(20, 21, 22, 23, 24, 25);
+mixedData.push(isArrayEmpty = false);
+
 
 /* ****************************************************************************
    ***           DO NOT MODIFY ANYTHING AFTER THIS SECTION                  ***
