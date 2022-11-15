@@ -39,7 +39,7 @@ const fruits = [
 	"blueberry",
 	"mango",
 	"watermelon",
-	"grapes"
+	"grapes",
 ];
 
 /* 
@@ -70,8 +70,7 @@ TASK #3
 
 const num = mixedData.push("14");
 mixedData.push(20, 21, 22, 23, 24, 25);
-mixedData.push(isArrayEmpty = false);
-
+mixedData.push((isArrayEmpty = false));
 
 /* ****************************************************************************
    ***           DO NOT MODIFY ANYTHING AFTER THIS SECTION                  ***
