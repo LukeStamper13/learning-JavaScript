@@ -37,12 +37,12 @@ EXERCISE 2.01: Functions
 
 /* TASK #2
 	Define a new function variable named "sayHello" that takes in two parameters.
-	The first parameter should be a string called name, and the second paramater 
+	The first parameter should be a string called name, and the second parameter 
 	should be a number called age.  The function should return a string that
 	combines the two inputs such that if name was "John Doe" and age was 15, it 
 	would output "Hello, my name is John Doe and I am 15 years old.".
 	Your function should throw an error if the first parameter is not a string or 
-	the if the secod parameter is not a number. For help on testing for the 
+	the if the second parameter is not a number. For help on testing for the 
 	data type of a variable, and how to throw an error, check out the following
 	resources:
 	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
@@ -50,6 +50,9 @@ EXERCISE 2.01: Functions
 */
 
 // your code goes here
+
+let name = [];
+let age = 
 
 /* ****************************************************************************
    ***           DO NOT MODIFY ANYTHING AFTER THIS SECTION                  ***
